@@ -1,0 +1,15 @@
+2025-09-19 11:25:23.814346 Bandit: High severity issues found.
+2025-09-19 11:25:23.814535 File .githooks/pre-commit is world-writable!
+2025-09-19 11:25:23.814986 File .githooks/requirements.txt is world-writable!
+2025-09-19 11:25:23.815080 Sensitive info found in pre-commit-hook-test/bad.py: password\s*=\s*\"[A-Za-z0-9\*\!\@\#\$\%\^\&\(\)]{6,}\"
+2025-09-19 11:25:23.815157 File pre-commit-hook-test/bad.py is world-writable!
+2025-09-19 11:25:23.815240 File secure-validator-lab/render.yaml is world-writable!
+2025-09-19 11:25:23.815300 Bandit: High severity issues found.
+2025-09-19 11:25:57.121907 Bandit: High severity issues found.
+2025-09-19 11:25:57.122087 File .githooks/pre-commit is world-writable!
+2025-09-19 11:25:57.122192 File .githooks/requirements.txt is world-writable!
+2025-09-19 11:25:57.122292 File gitsecure.log is world-writable!
+2025-09-19 11:25:57.122431 Sensitive info found in pre-commit-hook-test/bad.py: password\s*=\s*\"[A-Za-z0-9\*\!\@\#\$\%\^\&\(\)]{6,}\"
+2025-09-19 11:25:57.122562 File pre-commit-hook-test/bad.py is world-writable!
+2025-09-19 11:25:57.122701 File secure-validator-lab/render.yaml is world-writable!
+2025-09-19 11:25:57.122815 Bandit: High severity issues found.
